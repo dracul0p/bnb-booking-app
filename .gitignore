@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+
+# IDE and editor files
+*.DS_Store
+
+
+
+
+
+
